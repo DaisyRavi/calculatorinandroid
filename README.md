@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by:Lathika LJ
-Registeration Number :212223220050
+Developed by:DAISY R
+Registeration Number :212223220016
 */
 ```
 
